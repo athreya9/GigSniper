@@ -3,11 +3,16 @@ from scrapers.utils import extract_contacts
 
 def scrape_reddit():
     url = "https://www.reddit.com/r/forhire/new.json?limit=10"
-    headers = {"User-Agent": "GigSniperBot"}
+    headers = {
+        "User-Agent": "GigSniperBot/1.0 by u/athreya9"
+    }
     res = requests.get(url, headers=headers)
-    print(res.status_code)
-    print(res.text)
-    posts = res.json()["data"]["children"]
+
+    try:
+        posts = res.json()["data"]["children"]
+    except Exception as e:
+        print("Reddit API error:", e)
+        return []
 
     leads = []
     for post in posts:

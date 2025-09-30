@@ -1,24 +1,21 @@
 import requests
-from bs4 import BeautifulSoup
 from scrapers.utils import extract_contacts
 
 def scrape_remoteok():
-    res = requests.get("https://remoteok.com/")
-    soup = BeautifulSoup(res.text, "html.parser")
-    jobs = soup.select("tr.job")
+    res = requests.get("https://remoteok.com/remote-jobs.json")
+    jobs = res.json()
 
     leads = []
-    for job in jobs[:10]:
-        title = job.select_one("h2").text.strip()
-        link = "https://remoteok.com" + job["data-href"]
-        contacts = extract_contacts(job.text)
+    # The first item is a legal notice, so we skip it.
+    for job in jobs[1:11]:
+        contacts = extract_contacts(job.get("description", ""))
         leads.append({
-            "title": title,
+            "title": job["position"],
             "platform": "RemoteOK",
             "budget_type": "Unknown",
             "posted_days_ago": 0,
-            "tags": [],
-            "link": link,
+            "tags": job.get("tags", []),
+            "link": job["url"],
             **contacts
         })
     return leads
