@@ -1,5 +1,0 @@
-cronJobs:
-  - name: refresh-leads
-    schedule: "*/15 * * * *"
-    command: "python refresh.py"
-    
