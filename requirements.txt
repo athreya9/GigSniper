@@ -1,3 +1,6 @@
 Flask
 flask-cors
 gunicorn
+requests
+playwright
+beautifulsoup4
