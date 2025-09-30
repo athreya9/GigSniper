@@ -11,4 +11,3 @@ def get_leads():
         leads = json.load(f)
     return jsonify(leads)
 
-handler = app
