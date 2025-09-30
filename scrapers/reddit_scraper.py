@@ -5,6 +5,8 @@ def scrape_reddit():
     url = "https://www.reddit.com/r/forhire/new.json?limit=10"
     headers = {"User-Agent": "GigSniperBot"}
     res = requests.get(url, headers=headers)
+    print(res.status_code)
+    print(res.text)
     posts = res.json()["data"]["children"]
 
     leads = []
