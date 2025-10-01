@@ -1,6 +1,36 @@
 {
-  "last_updated": "2025-10-01T14:10:09.794181Z",
+  "last_updated": "2025-10-01T14:32:39.500620Z",
   "leads": [
+    {
+      "title": "Full\u00e2\u0080\u0091Stack Software Engineer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "software",
+        "design",
+        "react",
+        "security",
+        "technical",
+        "testing",
+        "ui",
+        "code",
+        "web",
+        "payroll",
+        "js",
+        "typescript",
+        "rails",
+        "api",
+        "operations",
+        "engineer",
+        "engineering",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-toku-1128172",
+      "email": null,
+      "phone": null,
+      "website": "https://www.toku.com/\">website</a>.</p><p><br></p><p><span"
+    },
     {
       "title": "Software Engineer",
       "platform": "RemoteOK",
@@ -211,25 +241,6 @@
       "email": null,
       "phone": null,
       "website": "https://drata.com/career-tiers\"><em>here</em></a><em>."
-    },
-    {
-      "title": "Senior UX Content Writer",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "ux",
-        "design",
-        "writer",
-        "management",
-        "content",
-        "senior",
-        "digital nomad"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-senior-ux-content-writer-eventbrite-inc-1128158",
-      "email": null,
-      "phone": null,
-      "website": null
     }
   ]
 }
