@@ -1,6 +1,17 @@
 {
-  "last_updated": "2025-10-01T22:08:31.540168Z",
+  "last_updated": "2025-10-01T22:29:12.979850Z",
   "leads": [
+    {
+      "title": "THE EMPLOYMENT CAREER NETWORK",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [],
+      "link": "https://remoteOK.com/remote-jobs/remote-the-employment-career-network-telegram-1128178",
+      "email": null,
+      "phone": null,
+      "website": null
+    },
     {
       "title": "Vulnerable Customer Adviser",
       "platform": "RemoteOK",
@@ -180,32 +191,6 @@
       "email": null,
       "phone": null,
       "website": null
-    },
-    {
-      "title": "Group Art Supervisor",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "design",
-        "training",
-        "supervisor",
-        "support",
-        "growth",
-        "strategy",
-        "management",
-        "content",
-        "junior",
-        "marketing",
-        "medical",
-        "health",
-        "healthcare",
-        "digital nomad"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-group-art-supervisor-avalere-health-1128166",
-      "email": null,
-      "phone": null,
-      "website": "https://avalerehealth.com/privacy-policy/candidate-privacy-notice/\"><span"
     }
   ]
 }
