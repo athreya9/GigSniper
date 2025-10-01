@@ -1,6 +1,83 @@
 {
-  "last_updated": "2025-10-01T16:36:10.421644Z",
+  "last_updated": "2025-10-01T16:51:27.765314Z",
   "leads": [
+    {
+      "title": "Software Engineer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "software",
+        "lead",
+        "engineer",
+        "engineering"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-valinor-1128176",
+      "email": null,
+      "phone": null,
+      "website": null
+    },
+    {
+      "title": "Learning & Development Design Lead",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "design",
+        "financial",
+        "education",
+        "bank",
+        "lead",
+        "operations",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-learning-development-design-lead-monzo-1128175",
+      "email": null,
+      "phone": null,
+      "website": "https://monzo.com/current-account/personal\">personal</a>"
+    },
+    {
+      "title": "Senior Software Engineer Backend",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "software",
+        "design",
+        "security",
+        "support",
+        "growth",
+        "code",
+        "senior",
+        "reliability",
+        "health",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-backend-superhuman-1128174",
+      "email": null,
+      "phone": null,
+      "website": "https://superhuman.com/love\">see"
+    },
+    {
+      "title": "Video Editor",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "design",
+        "software",
+        "video",
+        "content",
+        "marketing",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-video-editor-tempo-1128173",
+      "email": null,
+      "phone": null,
+      "website": null
+    },
     {
       "title": "Full\u00e2\u0080\u0091Stack Software Engineer",
       "platform": "RemoteOK",
@@ -126,121 +203,6 @@
       "email": null,
       "phone": null,
       "website": "https://metana.io/full-stack-software-engineer-bootcamp/?utm_source=weworkremotely.com\">Metana\u00e2\u0080\u0099s"
-    },
-    {
-      "title": "People Business Partner HR4HR",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "hr",
-        "support",
-        "growth",
-        "management",
-        "lead",
-        "senior"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-people-business-partner-hr4hr-doordash-usa-1128162",
-      "email": null,
-      "phone": null,
-      "website": null
-    },
-    {
-      "title": "Senior Fullstack Engineer",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "embedded",
-        "system",
-        "frontend",
-        "security",
-        "architect",
-        "technical",
-        "support",
-        "developer",
-        "code",
-        "payroll",
-        "javascript",
-        "financial",
-        "finance",
-        "fintech",
-        "banking",
-        "bank",
-        "cloud",
-        "senior",
-        "reliability",
-        "engineer",
-        "engineering",
-        "backend",
-        "fullstack",
-        "digital nomad"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-senior-fullstack-engineer-clair-1128161",
-      "email": null,
-      "phone": null,
-      "website": "https://getclair.com/about/\">getclair.com/about</a></p>"
-    },
-    {
-      "title": "Software Engineer Product",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "software",
-        "react",
-        "frontend",
-        "full-stack",
-        "technical",
-        "test",
-        "growth",
-        "ux",
-        "code",
-        "web",
-        "voice",
-        "devops",
-        "cloud",
-        "api",
-        "strategy",
-        "lead",
-        "legal",
-        "reliability",
-        "engineer",
-        "engineering",
-        "backend"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-product-gc-ai-1128160",
-      "email": null,
-      "phone": null,
-      "website": "https://app.withrapha.com/job/getgc.ai\"><u>GC"
-    },
-    {
-      "title": "Senior Analyst GTM Planning & Analytics",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "analyst",
-        "saas",
-        "support",
-        "financial",
-        "finance",
-        "microsoft",
-        "management",
-        "senior",
-        "operations",
-        "marketing",
-        "excel",
-        "analytics",
-        "sales",
-        "health",
-        "healthcare",
-        "non tech"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-senior-analyst-gtm-planning-analytics-drata-1128159",
-      "email": null,
-      "phone": null,
-      "website": "https://drata.com/career-tiers\"><em>here</em></a><em>."
     }
   ]
 }
