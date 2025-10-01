@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-10-01T12:18:32.717070Z",
+  "last_updated": "2025-10-01T13:03:38.372463Z",
   "leads": [
+    {
+      "title": "Email Marketing Manager",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "manager",
+        "saas",
+        "testing",
+        "growth",
+        "travel",
+        "management",
+        "lead",
+        "marketing",
+        "analytics",
+        "health"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-email-marketing-manager-afar-1128168",
+      "email": null,
+      "phone": null,
+      "website": "http://parse.ly\">Parse.ly</a>,"
+    },
     {
       "title": "Chief Engineer Spacecraft",
       "platform": "RemoteOK",
@@ -203,20 +225,6 @@
         "non tech"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-data-labeling-specialist-appen-1128157",
-      "email": null,
-      "phone": null,
-      "website": null
-    },
-    {
-      "title": "Current openings",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "blockchain",
-        "crypto"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-current-openings-socket-1128155",
       "email": null,
       "phone": null,
       "website": null
