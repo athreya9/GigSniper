@@ -1,6 +1,23 @@
 {
-  "last_updated": "2025-10-01T17:38:48.697561Z",
+  "last_updated": "2025-10-01T17:46:49.122395Z",
   "leads": [
+    {
+      "title": "Vulnerable Customer Adviser",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "training",
+        "financial",
+        "education",
+        "bank",
+        "non tech"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-vulnerable-customer-adviser-monzo-1128177",
+      "email": null,
+      "phone": null,
+      "website": "https://monzo.com/current-account/personal\">personal</a>"
+    },
     {
       "title": "Software Engineer",
       "platform": "RemoteOK",
@@ -189,20 +206,6 @@
       "email": null,
       "phone": null,
       "website": "https://avalerehealth.com/privacy-policy/candidate-privacy-notice/\"><span"
-    },
-    {
-      "title": "Coding Bootcamp\u00ef\u00b9\u00a3Job Guaranteed",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "Job or 100% money back",
-        "No tech background needed"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-coding-bootcamp-job-guaranteed-metana-1128165",
-      "email": null,
-      "phone": null,
-      "website": "https://metana.io/full-stack-software-engineer-bootcamp/?utm_source=weworkremotely.com\">Metana\u00e2\u0080\u0099s"
     }
   ]
 }
