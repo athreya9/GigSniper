@@ -1,22 +1,6 @@
 {
-  "last_updated": "2025-10-01T13:38:50.503877Z",
+  "last_updated": "2025-10-01T13:50:43.289707Z",
   "leads": [
-    {
-      "title": "Software Engineer",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "software",
-        "code",
-        "web",
-        "engineer"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-tech-innovations-inc-1128171",
-      "email": null,
-      "phone": null,
-      "website": null
-    },
     {
       "title": "Email Marketing Manager",
       "platform": "RemoteOK",
@@ -227,6 +211,20 @@
         "digital nomad"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-senior-ux-content-writer-eventbrite-inc-1128158",
+      "email": null,
+      "phone": null,
+      "website": null
+    },
+    {
+      "title": "Data Labeling Specialist",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "video",
+        "non tech"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-data-labeling-specialist-appen-1128157",
       "email": null,
       "phone": null,
       "website": null
