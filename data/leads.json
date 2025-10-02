@@ -1,6 +1,40 @@
 {
-  "last_updated": "2025-10-02T16:11:05.026451Z",
+  "last_updated": "2025-10-02T16:34:55.318327Z",
   "leads": [
+    {
+      "title": "Licensed Marriage and Family Therapist",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "recruiter",
+        "growth",
+        "video",
+        "education",
+        "senior",
+        "medical",
+        "health",
+        "healthcare"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-licensed-marriage-and-family-therapist-brave-health-1128186",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
+    {
+      "title": "Fullstack Engineer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "dev",
+        "full stack"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-fullstack-engineer-contra-1128184",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Senior Software Engineer Backend",
       "platform": "RemoteOK",
@@ -142,49 +176,6 @@
         "engineering"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-valinor-1128176",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Learning & Development Design Lead",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "design",
-        "financial",
-        "education",
-        "bank",
-        "lead",
-        "operations",
-        "digital nomad"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-learning-development-design-lead-monzo-1128175",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Senior Software Engineer Backend",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "software",
-        "design",
-        "security",
-        "support",
-        "growth",
-        "code",
-        "senior",
-        "reliability",
-        "health",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-backend-superhuman-1128174",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
