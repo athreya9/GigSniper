@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-10-02T08:50:51.798685Z",
+  "last_updated": "2025-10-02T09:09:50.331605Z",
   "leads": [
+    {
+      "title": "Senior Software Development Engineer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "software",
+        "react",
+        "front-end",
+        "back-end",
+        "growth",
+        "strategy",
+        "senior",
+        "engineer",
+        "backend",
+        "ecommerce"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-senior-software-development-engineer-recharge-1128180",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
+    {
+      "title": "Current openings",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "design",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-current-openings-runway-1128179",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "THE EMPLOYMENT CAREER NETWORK",
       "platform": "RemoteOK",
@@ -148,46 +184,6 @@
         "engineer"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-tech-innovations-inc-1128171",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Email Marketing Manager",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "manager",
-        "saas",
-        "testing",
-        "growth",
-        "travel",
-        "management",
-        "lead",
-        "marketing",
-        "analytics",
-        "health"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-email-marketing-manager-afar-1128168",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Chief Engineer Spacecraft",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "system",
-        "technical",
-        "support",
-        "growth",
-        "engineer",
-        "engineering"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-chief-engineer-spacecraft-terran-orbital-corporation-1128167",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
