@@ -1,6 +1,22 @@
 {
-  "last_updated": "2025-10-02T11:46:41.280646Z",
+  "last_updated": "2025-10-02T12:16:50.188552Z",
   "leads": [
+    {
+      "title": "Senior AI Engineer Agentic",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "golang",
+        "system",
+        "senior",
+        "engineer"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-agentic-cast-ai-1128181",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Senior Software Development Engineer",
       "platform": "RemoteOK",
@@ -168,22 +184,6 @@
         "digital nomad"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-toku-1128172",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Software Engineer",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "software",
-        "code",
-        "web",
-        "engineer"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-tech-innovations-inc-1128171",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
