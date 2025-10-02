@@ -9,3 +9,13 @@ def extract_contacts(text):
         "phone": phones[0] if phones else None,
         "website": websites[0] if websites else None
     }
+
+def compute_score(lead):
+    score = 0
+    if lead.get("contactEmail"):
+        score += 40
+    if lead.get("contactPhone"):
+        score += 40
+    if lead.get("tags") and len(lead["tags"]) > 0:
+        score += 20
+    return score

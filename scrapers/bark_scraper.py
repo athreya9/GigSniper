@@ -1,5 +1,5 @@
 from playwright.sync_api import sync_playwright
-from scrapers.utils import extract_contacts
+from scrapers.utils import extract_contacts, compute_score
 
 def scrape_bark():
     leads = []
@@ -12,7 +12,7 @@ def scrape_bark():
         for card in cards[:10]:
             text = card.inner_text()
             contacts = extract_contacts(text)
-            leads.append({
+            lead_data = {
                 "title": card.query_selector("h3").inner_text(),
                 "platform": "Bark",
                 "budget_type": "Unknown",
@@ -21,7 +21,8 @@ def scrape_bark():
                 "link": page.url,
                 "contactEmail": contacts.get("email"),
                 "contactPhone": contacts.get("phone"),
-                "score": 0 # Placeholder score
-            })
+            }
+            lead_data["score"] = compute_score(lead_data)
+            leads.append(lead_data)
         browser.close()
     return leads

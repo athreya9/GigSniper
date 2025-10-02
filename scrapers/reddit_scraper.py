@@ -1,5 +1,5 @@
 import requests
-from scrapers.utils import extract_contacts
+from scrapers.utils import extract_contacts, compute_score
 
 def scrape_reddit():
     url = "https://www.reddit.com/r/forhire/new.json?limit=10"
@@ -18,7 +18,7 @@ def scrape_reddit():
     for post in posts:
         data = post["data"]
         contacts = extract_contacts(data.get("selftext", ""))
-        leads.append({
+        lead_data = {
             "title": data["title"],
             "platform": "Reddit",
             "budget_type": "Unknown",
@@ -27,6 +27,7 @@ def scrape_reddit():
             "link": f"https://reddit.com{data['permalink']}",
             "contactEmail": contacts.get("email"),
             "contactPhone": contacts.get("phone"),
-            "score": 0 # Placeholder score
-        })
+        }
+        lead_data["score"] = compute_score(lead_data)
+        leads.append(lead_data)
     return leads

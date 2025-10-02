@@ -1,5 +1,5 @@
 import requests
-from scrapers.utils import extract_contacts
+from scrapers.utils import extract_contacts, compute_score
 
 def scrape_remoteok():
     res = requests.get("https://remoteok.com/remote-jobs.json")
@@ -9,7 +9,7 @@ def scrape_remoteok():
     # The first item is a legal notice, so we skip it.
     for job in jobs[1:11]:
         contacts = extract_contacts(job.get("description", ""))
-        leads.append({
+        lead_data = {
             "title": job["position"],
             "platform": "RemoteOK",
             "budget_type": "Unknown",
@@ -18,6 +18,7 @@ def scrape_remoteok():
             "link": job["url"],
             "contactEmail": contacts.get("email"),
             "contactPhone": contacts.get("phone"),
-            "score": 0 # Placeholder score
-        })
+        }
+        lead_data["score"] = compute_score(lead_data)
+        leads.append(lead_data)
     return leads
