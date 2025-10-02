@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-02T06:41:32.516019Z",
+  "last_updated": "2025-10-02T06:51:40.764837Z",
   "leads": [
     {
       "title": "THE EMPLOYMENT CAREER NETWORK",
@@ -8,9 +8,9 @@
       "posted_days_ago": 0,
       "tags": [],
       "link": "https://remoteOK.com/remote-jobs/remote-the-employment-career-network-telegram-1128178",
-      "email": null,
-      "phone": null,
-      "website": null
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
     },
     {
       "title": "Vulnerable Customer Adviser",
@@ -25,9 +25,9 @@
         "non tech"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-vulnerable-customer-adviser-monzo-1128177",
-      "email": null,
-      "phone": null,
-      "website": "https://monzo.com/current-account/personal\">personal</a>"
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
     },
     {
       "title": "Software Engineer",
@@ -41,9 +41,9 @@
         "engineering"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-valinor-1128176",
-      "email": null,
-      "phone": null,
-      "website": null
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
     },
     {
       "title": "Learning & Development Design Lead",
@@ -60,9 +60,9 @@
         "digital nomad"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-learning-development-design-lead-monzo-1128175",
-      "email": null,
-      "phone": null,
-      "website": "https://monzo.com/current-account/personal\">personal</a>"
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
     },
     {
       "title": "Senior Software Engineer Backend",
@@ -84,9 +84,9 @@
         "digital nomad"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-backend-superhuman-1128174",
-      "email": null,
-      "phone": null,
-      "website": "https://superhuman.com/love\">see"
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
     },
     {
       "title": "Video Editor",
@@ -102,9 +102,9 @@
         "digital nomad"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-video-editor-tempo-1128173",
-      "email": null,
-      "phone": null,
-      "website": null
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
     },
     {
       "title": "Full\u00e2\u0080\u0091Stack Software Engineer",
@@ -132,9 +132,9 @@
         "digital nomad"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-toku-1128172",
-      "email": null,
-      "phone": null,
-      "website": "https://www.toku.com/\">website</a>.</p><p><br></p><p><span"
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
     },
     {
       "title": "Software Engineer",
@@ -148,9 +148,9 @@
         "engineer"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-tech-innovations-inc-1128171",
-      "email": null,
-      "phone": null,
-      "website": null
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
     },
     {
       "title": "Email Marketing Manager",
@@ -170,9 +170,9 @@
         "health"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-email-marketing-manager-afar-1128168",
-      "email": null,
-      "phone": null,
-      "website": "http://parse.ly\">Parse.ly</a>,"
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
     },
     {
       "title": "Chief Engineer Spacecraft",
@@ -188,9 +188,9 @@
         "engineering"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-chief-engineer-spacecraft-terran-orbital-corporation-1128167",
-      "email": null,
-      "phone": null,
-      "website": null
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
     }
   ]
 }
