@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-10-02T16:34:55.318327Z",
+  "last_updated": "2025-10-02T16:51:33.684088Z",
   "leads": [
+    {
+      "title": "Software Engineer II",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "software",
+        "design",
+        "react",
+        "graphql",
+        "system",
+        "frontend",
+        "back-end",
+        "ui",
+        "code",
+        "web",
+        "devops",
+        "financial",
+        "cloud",
+        "management",
+        "junior",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ii-wealth-com-1128188",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
+    {
+      "title": "Virtual Legal Assistant",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "assistant",
+        "support",
+        "growth",
+        "operations",
+        "legal",
+        "full-time"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-virtual-legal-assistant-offshore-launch-1128187",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Licensed Marriage and Family Therapist",
       "platform": "RemoteOK",
@@ -146,39 +194,6 @@
       "contactEmail": null,
       "contactPhone": null,
       "score": 0
-    },
-    {
-      "title": "Vulnerable Customer Adviser",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "training",
-        "financial",
-        "education",
-        "bank",
-        "non tech"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-vulnerable-customer-adviser-monzo-1128177",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Software Engineer",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "software",
-        "lead",
-        "engineer",
-        "engineering"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-valinor-1128176",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
     }
   ]
 }
