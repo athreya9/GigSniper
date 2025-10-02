@@ -19,7 +19,9 @@ def scrape_bark():
                 "posted_days_ago": 0,
                 "tags": [],
                 "link": page.url,
-                **contacts
+                "contactEmail": contacts.get("email"),
+                "contactPhone": contacts.get("phone"),
+                "score": 0 # Placeholder score
             })
         browser.close()
     return leads

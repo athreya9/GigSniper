@@ -25,6 +25,8 @@ def scrape_reddit():
             "posted_days_ago": 0,
             "tags": [],
             "link": f"https://reddit.com{data['permalink']}",
-            **contacts
+            "contactEmail": contacts.get("email"),
+            "contactPhone": contacts.get("phone"),
+            "score": 0 # Placeholder score
         })
     return leads

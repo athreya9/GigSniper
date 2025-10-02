@@ -16,6 +16,8 @@ def scrape_remoteok():
             "posted_days_ago": 0,
             "tags": job.get("tags", []),
             "link": job["url"],
-            **contacts
+            "contactEmail": contacts.get("email"),
+            "contactPhone": contacts.get("phone"),
+            "score": 0 # Placeholder score
         })
     return leads
