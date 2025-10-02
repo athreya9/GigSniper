@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-10-02T13:47:42.106445Z",
+  "last_updated": "2025-10-02T14:09:53.191050Z",
   "leads": [
+    {
+      "title": "Senior Software Engineer Backend",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "software",
+        "crypto",
+        "embedded",
+        "system",
+        "financial",
+        "senior",
+        "engineer",
+        "backend"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-backend-magic-1128183",
+      "contactEmail": null,
+      "contactPhone": "1896985375945712003",
+      "score": 60
+    },
+    {
+      "title": "Senior Water Wastewater Engineer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "design",
+        "system",
+        "3d",
+        "consulting",
+        "technical",
+        "support",
+        "travel",
+        "video",
+        "management",
+        "lead",
+        "senior",
+        "junior",
+        "health",
+        "engineer",
+        "engineering",
+        "educational",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-senior-water-wastewater-engineer-erg-1128182",
+      "contactEmail": "Resumes-Lex@erg.com",
+      "contactPhone": null,
+      "score": 60
+    },
     {
       "title": "Senior AI Engineer Agentic",
       "platform": "RemoteOK",
@@ -136,54 +185,6 @@
         "digital nomad"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-backend-superhuman-1128174",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Video Editor",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "design",
-        "software",
-        "video",
-        "content",
-        "marketing",
-        "digital nomad"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-video-editor-tempo-1128173",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Full\u00e2\u0080\u0091Stack Software Engineer",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "software",
-        "design",
-        "react",
-        "security",
-        "technical",
-        "testing",
-        "ui",
-        "code",
-        "web",
-        "payroll",
-        "js",
-        "typescript",
-        "rails",
-        "api",
-        "operations",
-        "engineer",
-        "engineering",
-        "digital nomad"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-toku-1128172",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
