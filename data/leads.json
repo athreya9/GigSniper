@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-10-02T19:08:11.098172Z",
+  "last_updated": "2025-10-02T19:24:19.071001Z",
   "leads": [
+    {
+      "title": "Senior Product Manager",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "manager",
+        "students",
+        "technical",
+        "support",
+        "education",
+        "strategy",
+        "management",
+        "senior",
+        "analytics",
+        "engineering",
+        "educational",
+        "backend"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-datakind-1128190",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Sales Development Representative",
       "platform": "RemoteOK",
@@ -182,20 +206,6 @@
         "ecommerce"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-senior-software-development-engineer-recharge-1128180",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Current openings",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "design",
-        "digital nomad"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-current-openings-runway-1128179",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
