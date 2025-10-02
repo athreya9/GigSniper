@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-02T08:12:45.203280Z",
+  "last_updated": "2025-10-02T08:36:26.931604Z",
   "leads": [
+    {
+      "title": "Current openings",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "design",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-current-openings-runway-1128179",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "THE EMPLOYMENT CAREER NETWORK",
       "platform": "RemoteOK",
@@ -170,24 +184,6 @@
         "health"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-email-marketing-manager-afar-1128168",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Chief Engineer Spacecraft",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "system",
-        "technical",
-        "support",
-        "growth",
-        "engineer",
-        "engineering"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-chief-engineer-spacecraft-terran-orbital-corporation-1128167",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
