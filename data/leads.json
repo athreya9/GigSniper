@@ -1,17 +1,6 @@
 {
-  "last_updated": "2025-10-03T19:31:48.577183Z",
+  "last_updated": "2025-10-03T19:46:32.754358Z",
   "leads": [
-    {
-      "title": "Chinese LLM Evaluator",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [],
-      "link": "https://remoteOK.com/remote-jobs/remote-chinese-llm-evaluator-crowdgen-by-appen-1128195",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 0
-    },
     {
       "title": "Senior Application Engineer Python",
       "platform": "RemoteOK",
@@ -202,6 +191,35 @@
       "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-backend-magic-1128183",
       "contactEmail": null,
       "contactPhone": "1896985375945712003",
+      "score": 60
+    },
+    {
+      "title": "Senior Water Wastewater Engineer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "design",
+        "system",
+        "3d",
+        "consulting",
+        "technical",
+        "support",
+        "travel",
+        "video",
+        "management",
+        "lead",
+        "senior",
+        "junior",
+        "health",
+        "engineer",
+        "engineering",
+        "educational",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-senior-water-wastewater-engineer-erg-1128182",
+      "contactEmail": "Resumes-Lex@erg.com",
+      "contactPhone": null,
       "score": 60
     }
   ]
