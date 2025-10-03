@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-10-03T09:37:15.326993Z",
+  "last_updated": "2025-10-03T09:46:47.740481Z",
   "leads": [
+    {
+      "title": "Frontend Engineer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "frontend",
+        "design",
+        "web3",
+        "css",
+        "engineer",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-zetachain-1128192",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Senior Product Manager",
       "platform": "RemoteOK",
@@ -184,28 +202,6 @@
         "engineer"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-agentic-cast-ai-1128181",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Senior Software Development Engineer",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "software",
-        "react",
-        "front-end",
-        "back-end",
-        "growth",
-        "strategy",
-        "senior",
-        "engineer",
-        "backend",
-        "ecommerce"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-senior-software-development-engineer-recharge-1128180",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
