@@ -1,6 +1,38 @@
 {
-  "last_updated": "2025-10-03T15:46:24.790806Z",
+  "last_updated": "2025-10-03T16:10:54.274806Z",
   "leads": [
+    {
+      "title": "Senior Application Engineer Python",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "python",
+        "design",
+        "system",
+        "front-end",
+        "full-stack",
+        "technical",
+        "support",
+        "software",
+        "testing",
+        "code",
+        "cloud",
+        "nosql",
+        "management",
+        "senior",
+        "legal",
+        "health",
+        "engineer",
+        "engineering",
+        "backend",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-senior-application-engineer-python-egen-1128194",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Frontend Engineer",
       "platform": "RemoteOK",
@@ -189,22 +221,6 @@
       "contactEmail": "Resumes-Lex@erg.com",
       "contactPhone": null,
       "score": 60
-    },
-    {
-      "title": "Senior AI Engineer Agentic",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "golang",
-        "system",
-        "senior",
-        "engineer"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-agentic-cast-ai-1128181",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
     }
   ]
 }
