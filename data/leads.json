@@ -1,6 +1,17 @@
 {
-  "last_updated": "2025-10-03T21:31:42.715050Z",
+  "last_updated": "2025-10-03T21:46:31.498368Z",
   "leads": [
+    {
+      "title": "Careers",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [],
+      "link": "https://remoteOK.com/remote-jobs/remote-careers-versapay-1128196",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
+    },
     {
       "title": "Chinese LLM Evaluator",
       "platform": "RemoteOK",
@@ -183,26 +194,6 @@
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
-    },
-    {
-      "title": "Senior Software Engineer Backend",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "software",
-        "crypto",
-        "embedded",
-        "system",
-        "financial",
-        "senior",
-        "engineer",
-        "backend"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-backend-magic-1128183",
-      "contactEmail": null,
-      "contactPhone": "1896985375945712003",
-      "score": 60
     }
   ]
 }
