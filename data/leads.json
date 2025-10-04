@@ -1,6 +1,29 @@
 {
-  "last_updated": "2025-10-04T15:31:45.075379Z",
+  "last_updated": "2025-10-04T15:46:40.556360Z",
   "leads": [
+    {
+      "title": "Patient Engagement Specialist Temporary",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "support",
+        "voice",
+        "education",
+        "mobile",
+        "operations",
+        "medical",
+        "health",
+        "healthcare",
+        "recruitment",
+        "full-time",
+        "non tech"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-patient-engagement-specialist-temporary-sprinter-health-1128209",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Product Marketing Manager",
       "platform": "RemoteOK",
@@ -167,17 +190,6 @@
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
-    },
-    {
-      "title": "Careers",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [],
-      "link": "https://remoteOK.com/remote-jobs/remote-careers-versapay-1128196",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 0
     }
   ]
 }
