@@ -1,6 +1,71 @@
 {
-  "last_updated": "2025-10-04T11:03:54.760998Z",
+  "last_updated": "2025-10-04T11:21:08.938158Z",
   "leads": [
+    {
+      "title": "Talent Acquisition Specialist",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "hr",
+        "system",
+        "coordinator",
+        "support",
+        "growth",
+        "director",
+        "manager",
+        "fintech",
+        "senior",
+        "operations",
+        "marketing",
+        "recruiting",
+        "recruitment"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-talent-acquisition-specialist-tradeify-1128207",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
+    {
+      "title": "UX UI Specialist",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "ui",
+        "ux",
+        "design",
+        "support",
+        "cloud",
+        "operational",
+        "legal",
+        "go",
+        "health",
+        "engineering",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-ux-ui-specialist-egen-1128206",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
+    {
+      "title": "Software Engineer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "software",
+        "code",
+        "web",
+        "health",
+        "engineer"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-tech-solutions-inc-1128205",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "SDE I Backend",
       "platform": "RemoteOK",
@@ -104,80 +169,6 @@
       "contactEmail": null,
       "contactPhone": null,
       "score": 0
-    },
-    {
-      "title": "Senior Application Engineer Python",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "python",
-        "design",
-        "system",
-        "front-end",
-        "full-stack",
-        "technical",
-        "support",
-        "software",
-        "testing",
-        "code",
-        "cloud",
-        "nosql",
-        "management",
-        "senior",
-        "legal",
-        "health",
-        "engineer",
-        "engineering",
-        "backend",
-        "digital nomad"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-senior-application-engineer-python-egen-1128194",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Frontend Engineer",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "frontend",
-        "design",
-        "web3",
-        "css",
-        "engineer",
-        "digital nomad"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-zetachain-1128192",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Senior Product Manager",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "manager",
-        "students",
-        "technical",
-        "support",
-        "education",
-        "strategy",
-        "management",
-        "senior",
-        "analytics",
-        "engineering",
-        "educational",
-        "backend"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-datakind-1128190",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
     }
   ]
 }
