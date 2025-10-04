@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-10-04T09:08:55.054842Z",
+  "last_updated": "2025-10-04T09:25:22.000230Z",
   "leads": [
+    {
+      "title": "SDE I Backend",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "design",
+        "saas",
+        "amazon",
+        "technical",
+        "software",
+        "code",
+        "web",
+        "java",
+        "management",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-sde-i-backend-netomi-1128204",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Machine Learning Engineer",
       "platform": "RemoteOK",
@@ -151,22 +175,6 @@
         "backend"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-datakind-1128190",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Sales Development Representative",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "software",
-        "api",
-        "marketing",
-        "sales"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-telgorithm-1128189",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
