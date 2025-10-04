@@ -1,21 +1,6 @@
 {
-  "last_updated": "2025-10-04T22:07:43.299799Z",
+  "last_updated": "2025-10-04T22:27:29.886042Z",
   "leads": [
-    {
-      "title": "Financial Copyeditor & Fact Checker",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "financial",
-        "investment",
-        "content"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-financial-copyeditor-fact-checker-the-motley-fool-1128213",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
     {
       "title": "Sales Operations Analyst",
       "platform": "RemoteOK",
@@ -199,6 +184,23 @@
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
+    },
+    {
+      "title": "Protocol Engineer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "crypto",
+        "embedded",
+        "system",
+        "financial",
+        "engineer"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-protocol-engineer-magic-1128202",
+      "contactEmail": null,
+      "contactPhone": "1896985375945712003",
+      "score": 60
     }
   ]
 }
