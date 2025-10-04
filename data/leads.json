@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-10-04T17:31:45.881592Z",
+  "last_updated": "2025-10-04T17:46:48.060387Z",
   "leads": [
+    {
+      "title": "Sales Operations Analyst",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "analyst",
+        "support",
+        "finance",
+        "fintech",
+        "lead",
+        "operations",
+        "sales",
+        "healthcare",
+        "non tech"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-hometap-1128212",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Information Security Analyst",
       "platform": "RemoteOK",
@@ -180,17 +201,6 @@
       "contactEmail": null,
       "contactPhone": "1896985375945712003",
       "score": 60
-    },
-    {
-      "title": "Job Title Here",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [],
-      "link": "https://remoteOK.com/remote-jobs/remote-job-title-here-rula-1128201",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 0
     }
   ]
 }
