@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-10-04T16:31:09.061190Z",
+  "last_updated": "2025-10-04T16:47:12.219407Z",
   "leads": [
+    {
+      "title": "Information Security Analyst",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "security",
+        "analyst",
+        "financial",
+        "education",
+        "bank",
+        "non tech"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-information-security-analyst-monzo-1128211",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Patient Engagement Specialist Temporary",
       "platform": "RemoteOK",
@@ -173,23 +191,6 @@
       "contactEmail": null,
       "contactPhone": null,
       "score": 0
-    },
-    {
-      "title": "Executive Assistant",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "assistant",
-        "support",
-        "growth",
-        "travel",
-        "executive"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-typeface-1128200",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
     }
   ]
 }
