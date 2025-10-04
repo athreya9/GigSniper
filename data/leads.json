@@ -1,6 +1,26 @@
 {
-  "last_updated": "2025-10-04T12:51:03.495533Z",
+  "last_updated": "2025-10-04T13:13:39.579358Z",
   "leads": [
+    {
+      "title": "Product Marketing Manager",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "manager",
+        "web3",
+        "technical",
+        "support",
+        "strategy",
+        "content",
+        "marketing",
+        "engineering"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-product-marketing-manager-sei-labs-1128208",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Talent Acquisition Specialist",
       "platform": "RemoteOK",
@@ -155,17 +175,6 @@
       "posted_days_ago": 0,
       "tags": [],
       "link": "https://remoteOK.com/remote-jobs/remote-careers-versapay-1128196",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 0
-    },
-    {
-      "title": "Chinese LLM Evaluator",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [],
-      "link": "https://remoteOK.com/remote-jobs/remote-chinese-llm-evaluator-crowdgen-by-appen-1128195",
       "contactEmail": null,
       "contactPhone": null,
       "score": 0
