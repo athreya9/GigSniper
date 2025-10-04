@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-10-03T23:46:20.870614Z",
+  "last_updated": "2025-10-04T00:39:07.025470Z",
   "leads": [
+    {
+      "title": "Job Title Here",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [],
+      "link": "https://remoteOK.com/remote-jobs/remote-job-title-here-rula-1128201",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
+    },
+    {
+      "title": "Executive Assistant",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "assistant",
+        "support",
+        "growth",
+        "travel",
+        "executive"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-typeface-1128200",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Careers",
       "platform": "RemoteOK",
@@ -157,40 +185,6 @@
         "full-time"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-virtual-legal-assistant-offshore-launch-1128187",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Licensed Marriage and Family Therapist",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "recruiter",
-        "growth",
-        "video",
-        "education",
-        "senior",
-        "medical",
-        "health",
-        "healthcare"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-licensed-marriage-and-family-therapist-brave-health-1128186",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Fullstack Engineer",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "dev",
-        "full stack"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-fullstack-engineer-contra-1128184",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
