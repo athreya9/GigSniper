@@ -1,6 +1,17 @@
 {
-  "last_updated": "2025-10-05T13:14:22.198048Z",
+  "last_updated": "2025-10-05T13:29:29.251440Z",
   "leads": [
+    {
+      "title": "Job openings",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [],
+      "link": "https://remoteOK.com/remote-jobs/remote-job-openings-anchorage-digital-1128214",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
+    },
     {
       "title": "Financial Copyeditor & Fact Checker",
       "platform": "RemoteOK",
@@ -183,19 +194,6 @@
         "digital nomad"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-sde-i-backend-netomi-1128204",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Machine Learning Engineer",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "engineer"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-machine-learning-engineer-jobgether-1128203",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
