@@ -1,14 +1,22 @@
 import json
 from datetime import datetime
 from scrapers.reddit_scraper import scrape_reddit
-from scrapers.bark_scraper import scrape_bark
+# from scrapers.bark_scraper import scrape_bark
 from scrapers.remoteok_scraper import scrape_remoteok
 
 def refresh_leads():
     all_leads = []
-    all_leads += scrape_reddit()
-    all_leads += scrape_bark()
-    all_leads += scrape_remoteok()
+    reddit_leads = scrape_reddit()
+    print(f"Refresh: Scraped {len(reddit_leads)} leads from Reddit.")
+    all_leads += reddit_leads
+
+    # bark_leads = scrape_bark()
+    # print(f"Refresh: Scraped {len(bark_leads)} leads from Bark.")
+    # all_leads += bark_leads
+
+    remoteok_leads = scrape_remoteok()
+    print(f"Refresh: Scraped {len(remoteok_leads)} leads from RemoteOK.")
+    all_leads += remoteok_leads
 
     payload = {
         "last_updated": datetime.utcnow().isoformat() + "Z",
