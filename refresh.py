@@ -35,7 +35,7 @@ def refresh_leads():
         for lead in all_leads:
             # Assuming leads have a 'company' field for Apollo search
             if not lead.get("contactEmail") and lead.get("company"):
-                print(f"Enriching lead for company: {lead["company"]}")
+                print(f"Enriching lead for company: {lead['company']}")
                 enriched_data = enrich_with_apollo(lead["company"], apollo_email, apollo_password)
                 if enriched_data:
                     lead.update(enriched_data[0])
