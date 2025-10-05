@@ -1,196 +1,312 @@
 {
-  "last_updated": "2025-10-02T07:46:17.901798Z",
+  "last_updated": "2025-10-05T14:33:51.967995Z",
   "leads": [
     {
-      "title": "THE EMPLOYMENT CAREER NETWORK",
-      "platform": "RemoteOK",
+      "title": "[For Hire] Young designer looking for logo or print design gigs, minimum 20$/hour",
+      "platform": "Reddit",
       "budget_type": "Unknown",
       "posted_days_ago": 0,
       "tags": [],
-      "link": "https://remoteOK.com/remote-jobs/remote-the-employment-career-network-telegram-1128178",
+      "link": "https://reddit.com/r/forhire/comments/1nyps2x/for_hire_young_designer_looking_for_logo_or_print/",
       "contactEmail": null,
       "contactPhone": null,
       "score": 0
     },
     {
-      "title": "Vulnerable Customer Adviser",
+      "title": "[For hire] Offering my services as Professional Video Editor / Social Media Management Specialist for a reasonable price!",
+      "platform": "Reddit",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [],
+      "link": "https://reddit.com/r/forhire/comments/1nypbky/for_hire_offering_my_services_as_professional/",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
+    },
+    {
+      "title": "[For Hire] Commercial Debt Collector",
+      "platform": "Reddit",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [],
+      "link": "https://reddit.com/r/forhire/comments/1nypb9f/for_hire_commercial_debt_collector/",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
+    },
+    {
+      "title": "[For Hire] Brand Designer and Strategist that's worked with businesses across 10 countries",
+      "platform": "Reddit",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [],
+      "link": "https://reddit.com/r/forhire/comments/1nyn534/for_hire_brand_designer_and_strategist_thats/",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
+    },
+    {
+      "title": "[FOR HIRE] 3D Artist for Characters, Creatures, and More",
+      "platform": "Reddit",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [],
+      "link": "https://reddit.com/r/forhire/comments/1nyn2tt/for_hire_3d_artist_for_characters_creatures_and/",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
+    },
+    {
+      "title": "[Hiring] \ud83c\udf17 Hiring a Creative Assistant \u2014 The Eclipsed World Saga",
+      "platform": "Reddit",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [],
+      "link": "https://reddit.com/r/forhire/comments/1nymx1m/hiring_hiring_a_creative_assistant_the_eclipsed/",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
+    },
+    {
+      "title": "[For Hire] Professional Video Editor",
+      "platform": "Reddit",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [],
+      "link": "https://reddit.com/r/forhire/comments/1nym1c4/for_hire_professional_video_editor/",
+      "contactEmail": "pablojosue.editor@gmail.com",
+      "contactPhone": null,
+      "score": 40
+    },
+    {
+      "title": "[For hire] Online couples counseling with a focus on attachment",
+      "platform": "Reddit",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [],
+      "link": "https://reddit.com/r/forhire/comments/1nylaat/for_hire_online_couples_counseling_with_a_focus/",
+      "contactEmail": "helpwithmiriam@gmail.com",
+      "contactPhone": null,
+      "score": 40
+    },
+    {
+      "title": "[Hiring]\ud83c\udf78 $50/hr Bartenders Needed Downtown LA Weekend Event! \ud83c\udf78",
+      "platform": "Reddit",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [],
+      "link": "https://reddit.com/r/forhire/comments/1nyk6dn/hiring_50hr_bartenders_needed_downtown_la_weekend/",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
+    },
+    {
+      "title": "[For hire] female, neutral Irish voice. For voice work, or for support and mentoring services. $50/hr neg",
+      "platform": "Reddit",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [],
+      "link": "https://reddit.com/r/forhire/comments/1nyj6zr/for_hire_female_neutral_irish_voice_for_voice/",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
+    },
+    {
+      "title": "Job openings",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [],
+      "link": "https://remoteOK.com/remote-jobs/remote-job-openings-anchorage-digital-1128214",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
+    },
+    {
+      "title": "Financial Copyeditor & Fact Checker",
       "platform": "RemoteOK",
       "budget_type": "Unknown",
       "posted_days_ago": 0,
       "tags": [
-        "training",
+        "financial",
+        "investment",
+        "content"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-financial-copyeditor-fact-checker-the-motley-fool-1128213",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
+    {
+      "title": "Sales Operations Analyst",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "analyst",
+        "support",
+        "finance",
+        "fintech",
+        "lead",
+        "operations",
+        "sales",
+        "healthcare",
+        "non tech"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-hometap-1128212",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
+    {
+      "title": "Information Security Analyst",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "security",
+        "analyst",
         "financial",
         "education",
         "bank",
         "non tech"
       ],
-      "link": "https://remoteOK.com/remote-jobs/remote-vulnerable-customer-adviser-monzo-1128177",
+      "link": "https://remoteOK.com/remote-jobs/remote-information-security-analyst-monzo-1128211",
       "contactEmail": null,
       "contactPhone": null,
-      "score": 0
+      "score": 20
     },
     {
-      "title": "Software Engineer",
+      "title": "Patient Engagement Specialist Temporary",
       "platform": "RemoteOK",
       "budget_type": "Unknown",
       "posted_days_ago": 0,
       "tags": [
-        "software",
-        "lead",
-        "engineer",
-        "engineering"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-valinor-1128176",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 0
-    },
-    {
-      "title": "Learning & Development Design Lead",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "design",
-        "financial",
-        "education",
-        "bank",
-        "lead",
-        "operations",
-        "digital nomad"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-learning-development-design-lead-monzo-1128175",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 0
-    },
-    {
-      "title": "Senior Software Engineer Backend",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "software",
-        "design",
-        "security",
         "support",
-        "growth",
-        "code",
-        "senior",
-        "reliability",
-        "health",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-backend-superhuman-1128174",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 0
-    },
-    {
-      "title": "Video Editor",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "design",
-        "software",
-        "video",
-        "content",
-        "marketing",
-        "digital nomad"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-video-editor-tempo-1128173",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 0
-    },
-    {
-      "title": "Full\u00e2\u0080\u0091Stack Software Engineer",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "software",
-        "design",
-        "react",
-        "security",
-        "technical",
-        "testing",
-        "ui",
-        "code",
-        "web",
-        "payroll",
-        "js",
-        "typescript",
-        "rails",
-        "api",
+        "voice",
+        "education",
+        "mobile",
         "operations",
-        "engineer",
-        "engineering",
-        "digital nomad"
+        "medical",
+        "health",
+        "healthcare",
+        "recruitment",
+        "full-time",
+        "non tech"
       ],
-      "link": "https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-toku-1128172",
+      "link": "https://remoteOK.com/remote-jobs/remote-patient-engagement-specialist-temporary-sprinter-health-1128209",
       "contactEmail": null,
       "contactPhone": null,
-      "score": 0
+      "score": 20
     },
     {
-      "title": "Software Engineer",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "software",
-        "code",
-        "web",
-        "engineer"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-tech-innovations-inc-1128171",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 0
-    },
-    {
-      "title": "Email Marketing Manager",
+      "title": "Product Marketing Manager",
       "platform": "RemoteOK",
       "budget_type": "Unknown",
       "posted_days_ago": 0,
       "tags": [
         "manager",
-        "saas",
-        "testing",
-        "growth",
-        "travel",
-        "management",
-        "lead",
+        "web3",
+        "technical",
+        "support",
+        "strategy",
+        "content",
         "marketing",
-        "analytics",
-        "health"
+        "engineering"
       ],
-      "link": "https://remoteOK.com/remote-jobs/remote-email-marketing-manager-afar-1128168",
+      "link": "https://remoteOK.com/remote-jobs/remote-product-marketing-manager-sei-labs-1128208",
       "contactEmail": null,
       "contactPhone": null,
-      "score": 0
+      "score": 20
     },
     {
-      "title": "Chief Engineer Spacecraft",
+      "title": "Talent Acquisition Specialist",
       "platform": "RemoteOK",
       "budget_type": "Unknown",
       "posted_days_ago": 0,
       "tags": [
+        "hr",
         "system",
-        "technical",
+        "coordinator",
         "support",
         "growth",
-        "engineer",
-        "engineering"
+        "director",
+        "manager",
+        "fintech",
+        "senior",
+        "operations",
+        "marketing",
+        "recruiting",
+        "recruitment"
       ],
-      "link": "https://remoteOK.com/remote-jobs/remote-chief-engineer-spacecraft-terran-orbital-corporation-1128167",
+      "link": "https://remoteOK.com/remote-jobs/remote-talent-acquisition-specialist-tradeify-1128207",
       "contactEmail": null,
       "contactPhone": null,
-      "score": 0
+      "score": 20
+    },
+    {
+      "title": "UX UI Specialist",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "ui",
+        "ux",
+        "design",
+        "support",
+        "cloud",
+        "operational",
+        "legal",
+        "go",
+        "health",
+        "engineering",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-ux-ui-specialist-egen-1128206",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
+    {
+      "title": "Software Engineer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "software",
+        "code",
+        "web",
+        "health",
+        "engineer"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-tech-solutions-inc-1128205",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
+    {
+      "title": "SDE I Backend",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "design",
+        "saas",
+        "amazon",
+        "technical",
+        "software",
+        "code",
+        "web",
+        "java",
+        "management",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-sde-i-backend-netomi-1128204",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
     }
   ]
 }
