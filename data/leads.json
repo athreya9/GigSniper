@@ -1,6 +1,31 @@
 {
-  "last_updated": "2025-10-07T13:37:46.564794Z",
+  "last_updated": "2025-10-07T13:49:46.854367Z",
   "leads": [
+    {
+      "title": "Senior Backend Developer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "developer",
+        "design",
+        "defi",
+        "crypto",
+        "ux",
+        "web",
+        "financial",
+        "finance",
+        "cloud",
+        "leader",
+        "senior",
+        "backend",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-developer-wintermute-1128223",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Senior Staff DeFi Engineer",
       "platform": "RemoteOK",
@@ -143,29 +168,6 @@
         "non tech"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-information-security-analyst-monzo-1128211",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Patient Engagement Specialist Temporary",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "support",
-        "voice",
-        "education",
-        "mobile",
-        "operations",
-        "medical",
-        "health",
-        "healthcare",
-        "recruitment",
-        "full-time",
-        "non tech"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-patient-engagement-specialist-temporary-sprinter-health-1128209",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
