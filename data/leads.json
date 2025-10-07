@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-10-07T14:10:23.594537Z",
+  "last_updated": "2025-10-07T14:33:05.827504Z",
   "leads": [
+    {
+      "title": "Senior Protocol Engineer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "design",
+        "architect",
+        "technical",
+        "node",
+        "senior",
+        "health",
+        "engineer",
+        "engineering",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-senior-protocol-engineer-o1labs-1128224",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Senior Backend Developer",
       "platform": "RemoteOK",
@@ -150,24 +171,6 @@
         "non tech"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-hometap-1128212",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Information Security Analyst",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "security",
-        "analyst",
-        "financial",
-        "education",
-        "bank",
-        "non tech"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-information-security-analyst-monzo-1128211",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
