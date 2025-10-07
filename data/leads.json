@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-07T04:11:57.526883Z",
+  "last_updated": "2025-10-07T04:33:06.326261Z",
   "leads": [
+    {
+      "title": "Chief of Staff Operations & Marketing Generalist",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "marketing",
+        "ops"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-operations-marketing-generalist-gunning-1128218",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Observability Engineer",
       "platform": "RemoteOK",
@@ -154,29 +168,6 @@
         "recruitment"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-talent-acquisition-specialist-tradeify-1128207",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "UX UI Specialist",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "ui",
-        "ux",
-        "design",
-        "support",
-        "cloud",
-        "operational",
-        "legal",
-        "go",
-        "health",
-        "engineering",
-        "digital nomad"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-ux-ui-specialist-egen-1128206",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
