@@ -1,6 +1,23 @@
 {
-  "last_updated": "2025-10-07T22:46:18.386376Z",
+  "last_updated": "2025-10-07T23:08:34.896002Z",
   "leads": [
+    {
+      "title": "Senior Backend Software Engineer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "golang",
+        "software",
+        "senior",
+        "engineer",
+        "backend"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-software-engineer-atlassian-1128228",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Full Stack Software Engineer",
       "platform": "RemoteOK",
@@ -153,17 +170,6 @@
       "posted_days_ago": 0,
       "tags": [],
       "link": "https://remoteOK.com/remote-jobs/remote-trustarc-job-opening-trustarc-1128216",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 0
-    },
-    {
-      "title": "Job openings",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [],
-      "link": "https://remoteOK.com/remote-jobs/remote-job-openings-anchorage-digital-1128214",
       "contactEmail": null,
       "contactPhone": null,
       "score": 0
