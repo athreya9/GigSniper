@@ -1,6 +1,36 @@
 {
-  "last_updated": "2025-10-07T12:18:19.351303Z",
+  "last_updated": "2025-10-07T13:02:34.587735Z",
   "leads": [
+    {
+      "title": "Senior Staff DeFi Engineer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "defi",
+        "design",
+        "solidity",
+        "ethereum",
+        "security",
+        "technical",
+        "growth",
+        "ux",
+        "financial",
+        "finance",
+        "leader",
+        "strategy",
+        "senior",
+        "junior",
+        "reliability",
+        "engineer",
+        "engineering",
+        "digital nomad"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-senior-staff-defi-engineer-ethena-labs-1128222",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Product Manager AI desktop app",
       "platform": "RemoteOK",
@@ -136,26 +166,6 @@
         "non tech"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-patient-engagement-specialist-temporary-sprinter-health-1128209",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Product Marketing Manager",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "manager",
-        "web3",
-        "technical",
-        "support",
-        "strategy",
-        "content",
-        "marketing",
-        "engineering"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-product-marketing-manager-sei-labs-1128208",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
