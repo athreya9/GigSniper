@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-10-07T03:04:39.466722Z",
+  "last_updated": "2025-10-07T03:38:04.297316Z",
   "leads": [
+    {
+      "title": "Observability Engineer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "engineer"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-observability-engineer-honeycomb-1128217",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
+    {
+      "title": "TrustArc Job Opening",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [],
+      "link": "https://remoteOK.com/remote-jobs/remote-trustarc-job-opening-trustarc-1128216",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 0
+    },
     {
       "title": "Job openings",
       "platform": "RemoteOK",
@@ -153,47 +177,6 @@
         "digital nomad"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-ux-ui-specialist-egen-1128206",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Software Engineer",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "software",
-        "code",
-        "web",
-        "health",
-        "engineer"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-tech-solutions-inc-1128205",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "SDE I Backend",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "design",
-        "saas",
-        "amazon",
-        "technical",
-        "software",
-        "code",
-        "web",
-        "java",
-        "management",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-sde-i-backend-netomi-1128204",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
