@@ -1,6 +1,22 @@
 {
-  "last_updated": "2025-10-07T19:23:20.410942Z",
+  "last_updated": "2025-10-07T19:31:57.736170Z",
   "leads": [
+    {
+      "title": "Freelance 3D Modeler Animator",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "3d",
+        "gaming",
+        "animator",
+        "content"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-freelance-3d-modeler-animator-trailer-park-group-1128225",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Senior Protocol Engineer",
       "platform": "RemoteOK",
@@ -150,27 +166,6 @@
         "content"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-financial-copyeditor-fact-checker-the-motley-fool-1128213",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Sales Operations Analyst",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "analyst",
-        "support",
-        "finance",
-        "fintech",
-        "lead",
-        "operations",
-        "sales",
-        "healthcare",
-        "non tech"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-hometap-1128212",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
