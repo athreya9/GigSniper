@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-10-07T05:09:35.312789Z",
+  "last_updated": "2025-10-07T05:29:52.264007Z",
   "leads": [
+    {
+      "title": "Product Manager AI desktop app",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "dev"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-desktop-app-m3-software-solutions-1128220",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Chief of Staff Operations & Marketing Generalist",
       "platform": "RemoteOK",
@@ -143,31 +156,6 @@
         "engineering"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-product-marketing-manager-sei-labs-1128208",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Talent Acquisition Specialist",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "hr",
-        "system",
-        "coordinator",
-        "support",
-        "growth",
-        "director",
-        "manager",
-        "fintech",
-        "senior",
-        "operations",
-        "marketing",
-        "recruiting",
-        "recruitment"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-talent-acquisition-specialist-tradeify-1128207",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
