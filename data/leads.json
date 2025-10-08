@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-10-08T19:07:38.336180Z",
+  "last_updated": "2025-10-08T19:23:03.172830Z",
   "leads": [
+    {
+      "title": "Deputy Editor Future Perfect",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "growth",
+        "management",
+        "full-time"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-deputy-editor-future-perfect-vox-media-llc-1128237",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Frontline Support Engineer US",
       "platform": "RemoteOK",
@@ -190,19 +205,6 @@
         "backend"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-software-engineer-atlassian-1128228",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Full Stack Software Engineer",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "engineer"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-memberup-com-1128227",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
