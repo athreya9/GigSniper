@@ -1,6 +1,37 @@
 {
-  "last_updated": "2025-10-08T00:41:32.026136Z",
+  "last_updated": "2025-10-08T02:10:55.000669Z",
   "leads": [
+    {
+      "title": "Software Engineer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "software",
+        "engineer"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-tech-innovations-inc-1128230",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
+    {
+      "title": "Software Engineer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "software",
+        "code",
+        "web",
+        "health",
+        "engineer"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-tech-innovations-inc-1128229",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Senior Backend Software Engineer",
       "platform": "RemoteOK",
@@ -149,30 +180,6 @@
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
-    },
-    {
-      "title": "Observability Engineer",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "engineer"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-observability-engineer-honeycomb-1128217",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "TrustArc Job Opening",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [],
-      "link": "https://remoteOK.com/remote-jobs/remote-trustarc-job-opening-trustarc-1128216",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 0
     }
   ]
 }
