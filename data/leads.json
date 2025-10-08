@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-10-08T10:10:16.197048Z",
+  "last_updated": "2025-10-08T10:32:58.173179Z",
   "leads": [
+    {
+      "title": "Site Reliability Engineer with Node.js",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "senior",
+        "dev",
+        "javascript",
+        "python",
+        "typescript",
+        "node",
+        "docker",
+        "postgres",
+        "redis",
+        "gcp",
+        "aws",
+        "kubernetes",
+        "azure",
+        "nosql"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-with-node-js-kodify-media-group-1128232",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
+    {
+      "title": "Senior Full Stack Developer",
+      "platform": "RemoteOK",
+      "budget_type": "Unknown",
+      "posted_days_ago": 0,
+      "tags": [
+        "senior",
+        "dev",
+        "javascript",
+        "react",
+        "typescript",
+        "node",
+        "docker",
+        "aws",
+        "graphql",
+        "next",
+        "nosql"
+      ],
+      "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-developer-kodify-media-group-1128231",
+      "contactEmail": null,
+      "contactPhone": null,
+      "score": 20
+    },
     {
       "title": "Software Engineer",
       "platform": "RemoteOK",
@@ -150,33 +199,6 @@
         "digital nomad"
       ],
       "link": "https://remoteOK.com/remote-jobs/remote-senior-staff-defi-engineer-ethena-labs-1128222",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Product Manager AI desktop app",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "dev"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-desktop-app-m3-software-solutions-1128220",
-      "contactEmail": null,
-      "contactPhone": null,
-      "score": 20
-    },
-    {
-      "title": "Chief of Staff Operations & Marketing Generalist",
-      "platform": "RemoteOK",
-      "budget_type": "Unknown",
-      "posted_days_ago": 0,
-      "tags": [
-        "marketing",
-        "ops"
-      ],
-      "link": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-operations-marketing-generalist-gunning-1128218",
       "contactEmail": null,
       "contactPhone": null,
       "score": 20
